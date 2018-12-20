@@ -1,0 +1,1 @@
+{"host":["http://x.bobo.me","http://y.bobo.me","http://z.bobo.me"]}
